@@ -48,19 +48,27 @@ margin: auto;
 }
 
 #header{
+background-color: rgba(0, 0, 0, 0.041);
+margin: 25px;
+height: 50px;
 text-align: center;
-background-color: rgba(0, 0, 0, 0);
+background-image: linear-gradient(to bottom right, rgb(235, 231, 226), rgb(230, 212, 201));
+width: auto;
 }
 
 #headerTwo{
 text-align: center;
-text-shadow: 2px 1px #b4919179;
+text-shadow: 2px 1px #b4919167;
 }
 
 body{
     background-image: linear-gradient(to bottom right, rgb(235, 231, 226), rgb(219, 207, 200));
     background-repeat: no-repeat; 
     font-family: 'Bodoni Moda', serif;
+    border-style: solid;
+    border-width: 1px;
+    margin: 5%;
+    border-radius: 50px;
 }
 
 html{
