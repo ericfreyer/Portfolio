@@ -1,0 +1,40 @@
+#farmPic{
+    width: 25%;
+    height: 25%;
+
+}
+
+#examPic{
+    width: 25%;
+    height: 25%;
+}
+
+#weatherPic{
+    width: 25%;
+    height: 25%;
+}
+
+#farmDiv{
+text-align: center;
+width: 20%;
+
+
+}
+
+#quizDiv{
+    text-align: center;
+    width: 20%
+}
+
+#weatherDiv{
+    text-align: center;
+    width: 20%
+}
+
+#mainDiv{
+margin: auto;
+}
+
+#footer{
+   text-align: center; 
+}
