@@ -83,3 +83,8 @@ html{
 .btn{
     padding: 1px
 }
+
+#footer{
+    font-size: 10px;
+    float: left;
+}
